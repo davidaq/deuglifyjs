@@ -1,0 +1,17 @@
+{
+  "name": "deuglify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "deuglify": "./bin/deuglify.js"
+  },
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-generator": "^6.26.1",
+    "babel-traverse": "^6.26.0",
+    "babylon": "^6.18.0"
+  }
+}
