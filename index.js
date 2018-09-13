@@ -1,1 +1,1 @@
-require('./bin/deuglify')
+module.exports = require('./bin/deuglify')
