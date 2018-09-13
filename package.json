@@ -13,5 +13,13 @@
     "babel-generator": "^6.26.1",
     "babel-traverse": "^6.26.0",
     "babylon": "^6.18.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidaq/deuglifyjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidaq/deuglifyjs/issues"
+  },
+  "homepage": "https://github.com/davidaq/deuglifyjs#readme"
 }
